@@ -436,16 +436,16 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],
     ),
     (
-        "F1:The Movie"
-        "Joseph Kosinski"
+        "F1:The Movie",
+        "Joseph Kosinski",
         2025,
         [
-            "Damson Idris"
-            "Brad Pitt"
-            "Kate McKenna"
-            "Javier Bardem"
-            "lewis Hamilton"
-            "Tobias Menzies"
-        ]
+            "Damson Idris",
+            "Brad Pitt",
+            "Kate McKenna",
+            "Javier Bardem",
+            "lewis Hamilton",
+            "Tobias Menzies",
+        ],
     ),
 ]
